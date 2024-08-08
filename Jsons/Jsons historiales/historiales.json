@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "nombre": "Pancho",
+        "especie": "Gato",
+        "raza": "--",
+        "edad": "5",
+        "sexo": "Macho",
+        "peso": "8",
+        "propietario": "Cristian Correa Delgado",
+        "telefono": "972 242 023",
+        "direccion": "Santa Anita - Ate",
+        "descripcion": "El gato en cuesti\u00f3n es un felino en buen estado de salud general, con un pelaje brillante y ojos alertas que reflejan su bienestar, aunque presenta un ligero sobrepeso que podr\u00eda mejorarse con algunos ajustes en su rutina diaria. Este exceso de peso, evidenciado por un contorno ligeramente m\u00e1s prominente en su abdomen y una menor definici\u00f3n en su figura, sugiere la necesidad de moderar su ingesta cal\u00f3rica y fomentar una mayor actividad f\u00edsica. Para mantener su salud \u00f3ptima y abordar el sobrepeso, se recomienda ofrecer una dieta balanceada y adecuada a su edad y nivel de actividad, evitando las golosinas en exceso y ajustando las porciones para prevenir el aumento de peso adicional. Adem\u00e1s, incrementar la actividad f\u00edsica mediante juegos interactivos y juguetes que estimulen su caza y exploraci\u00f3n ayudar\u00e1 a mejorar su condici\u00f3n f\u00edsica y a mantener un peso saludable. Una consulta regular con el veterinario permitir\u00e1 ajustar su dieta y su plan de ejercicio de acuerdo a sus necesidades espec\u00edficas, asegurando as\u00ed que el gato se mantenga en una condici\u00f3n \u00f3ptima y disfrute de una vida activa y saludable.",
+        "imagen": "D:/SistemaVet/FotosPerfil/imagen1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Hannita",
+        "especie": "Perro",
+        "raza": "Pequines",
+        "edad": "4",
+        "sexo": "Hembra",
+        "peso": "6",
+        "propietario": "Fernando Zuasnabar",
+        "telefono": "925 657 624",
+        "direccion": "Las Vi\u00f1as de San Juan",
+        "descripcion": "La perrita Pekin\u00e9s, de 4 a\u00f1os, se encuentra en excelente estado de salud, con un pelaje largo y sedoso que mantiene un brillo natural y sin signos de nudos o par\u00e1sitos. Sus ojos est\u00e1n claros y sin secreciones, y las orejas est\u00e1n limpias, sin evidencia de infecciones. Su peso es adecuado para su tama\u00f1o, lo que indica una figura esbelta y saludable. Para mantener este estado \u00f3ptimo, se recomienda seguir una dieta equilibrada adecuada a su tama\u00f1o y edad, evitando alimentos cal\u00f3ricos vac\u00edos y golosinas en exceso. A pesar de su baja actividad natural, es fundamental incluir paseos cortos y juegos suaves para promover la salud cardiovascular y la movilidad. El cepillado regular del pelaje es crucial para evitar enredos y problemas dermatol\u00f3gicos, mientras que el cuidado dental debe incluir el cepillado de dientes varias veces a la semana y chequeos anuales para prevenir enfermedades periodontales. Adem\u00e1s, se aconseja realizar chequeos veterinarios peri\u00f3dicos, al menos una vez al a\u00f1o, para monitorear su salud y mantener actualizadas las vacunaciones y desparasitaciones. Finalmente, proporcionar un entorno enriquecido con estimulaci\u00f3n mental y social contribuir\u00e1 a su bienestar emocional y felicidad. Con estas pr\u00e1cticas, la perrita Pekin\u00e9s podr\u00e1 disfrutar de una vida saludable y plena.",
+        "imagen": "D:/SistemaVet/FotosPerfil/pequines.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Rocky",
+        "especie": "Perro",
+        "raza": "Rottweiler",
+        "edad": "2",
+        "sexo": "Macho",
+        "peso": "40",
+        "propietario": "Fernando Zuasnabar",
+        "telefono": "925 657 624",
+        "direccion": "Las Vi\u00f1as de San Juan",
+        "descripcion": "El paciente se presenta en consulta con un historial general de salud estable, con vacunaciones al d\u00eda y desparasitaciones regulares. Se destaca una historia de displasia de cadera leve, diagnosticada a los 2 a\u00f1os, manejada con dieta controlada y suplementos de glucosamina condroitina. El paciente ha tenido episodios ocasionales de otitis externa, tratada con limpieza auricular y medicamentos t\u00f3picos, sin recurrencia significativa en los \u00faltimos 12 meses. No se observan problemas gastrointestinales cr\u00f3nicos; sin embargo, se ha recomendado una dieta especial para evitar posibles problemas de obesidad. Los ex\u00e1menes cl\u00ednicos y an\u00e1lisis de laboratorio recientes muestran par\u00e1metros dentro de los rangos normales, sin evidencia de enfermedades infecciosas ni parasitarias activas. Se recomienda continuar con chequeos regulares, mantener el programa de vacunaci\u00f3n y seguir con la suplementaci\u00f3n para la displasia de cadera. Se ha programado una revisi\u00f3n para monitorear la evoluci\u00f3n de la salud articular y asegurar el bienestar continuo del paciente.",
+        "imagen": "D:/SistemaVet/FotosPerfil/rottweiler.jpg"
+    }
+]
